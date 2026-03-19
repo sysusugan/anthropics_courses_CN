@@ -1,12 +1,12 @@
-# Real world prompting
+# 现实世界提示词工程
 
-Welcome to Anthropic's comprehensive real world prompting tutorial. This course is designed for experienced developers who have already dipped their toes into the world of prompt engineering, particularly those who have completed our comprehensive **[Prompt engineering interactive tutorial](../prompt_engineering_interactive_tutorial/README.md)**. If you haven't gone through that tutorial yet, we strongly recommend you do so before continuing, as it provides an in-depth exploration of various prompting techniques with hands-on exercises.
+欢迎来到 Anthropic 的综合现实世界提示词工程教程。本课程面向已有提示词工程基础的资深开发者，尤其是已经完成我们的综合**[提示词工程互动教程](../prompt_engineering_interactive_tutorial/README.md)**的学员。如果你尚未完成该教程，我们强烈建议你在继续学习之前先完成它，因为该教程提供了各种提示词技术的深入讲解和实践练习。
 
-Across five lessons, you will learn how to incorporate key prompting techniques into complex, real world prompts. We recommend that you start from the beginning with the [Prompting recap](./01_prompting_recap.ipynb) lesson, as each lesson builds on key concepts taught in previous ones.
+通过五个课时，你将学习如何将关键提示词技术融入复杂的现实世界提示词中。我们建议你从[提示词 recap](./01_prompting_recap.ipynb)开始，因为每个课时都建立在前几课教授的概念之上。
 
-## Table of contents
-* [Prompting recap](./01_prompting_recap.ipynb)
-* [Medical prompt walkthrough](./02_medical_prompt.ipynb)
-* [Prompt engineering process](./03_prompt_engineering.ipynb)
-* [Call summarizing prompt walkthrough](./04_call_summarizer.ipynb)
-* [Customer support bot prompt walkthrough](./05_customer_support_ai.ipynb)
+## 目录
+* [提示词 recap](./01_prompting_recap.ipynb)
+* [医学提示词详解](./02_medical_prompt.ipynb)
+* [提示词工程流程](./03_prompt_engineering.ipynb)
+* [通话摘要提示词详解](./04_call_summarizer.ipynb)
+* [客户支持 AI 提示词详解](./05_customer_support_ai.ipynb)

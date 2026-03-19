@@ -1,11 +1,12 @@
-# Tool use
+# 工具使用
 
-Welcome to Anthropic's comprehensive tool use tutorial. Across six lessons, you will learn everything you need to know to implement tool use successfully in your workflows with Claude. We recommend that you start from the beginning with the [tool use overview](./01_tool_use_overview.ipynb), as each lesson builds on key concepts taught in previous ones.
+欢迎来到 Anthropic 的全面工具使用教程。通过六节课，你将学习在 Claude 工作流中成功实现工具使用所需的一切知识。我们建议你从[工具使用概述](./01_tool_use_overview.ipynb)开始，因为每一节课都建立在前几节课教授的关键概念之上。
 
-## Table of contents
-* [Tool use overview](./01_tool_use_overview.ipynb)
-* [Your first simple tool](./02_your_first_simple_tool.ipynb)
-* [Forcing JSON with tool use](./03_structured_outputs.ipynb)
-* [The complete tool use workflow](./04_complete_workflow.ipynb)
-* [Tool choice](./05_tool_choice.ipynb)
-* [Building a chatbot with multiple tools](./06_chatbot_with_multiple_tools.ipynb)
+## 目录
+
+* [工具使用概述](./01_tool_use_overview.ipynb)
+* [你的第一个简单工具](./02_your_first_simple_tool.ipynb)
+* [使用工具使用强制 JSON 输出](./03_structured_outputs.ipynb)
+* [完整的工具使用工作流](./04_complete_workflow.ipynb)
+* [工具选择](./05_tool_choice.ipynb)
+* [使用多个工具构建聊天机器人](./06_chatbot_with_multiple_tools.ipynb)
